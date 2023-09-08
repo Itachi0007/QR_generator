@@ -1,0 +1,16 @@
+{
+	"name": "back2node",
+	"version": "1.0.0",
+	"description": "recap of node",
+	"main": "index.js",
+	"scripts": {
+		"test": "nodemon index.js"
+	},
+	"type": "module",
+	"author": "Ahmer",
+	"license": "ISC",
+	"dependencies": {
+		"inquirer": "^9.2.10",
+		"qr-image": "^3.2.0"
+	}
+}
