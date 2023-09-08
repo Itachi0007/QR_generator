@@ -7,7 +7,7 @@ inquirer
 		{
 			type: "input",
 			name: "name",
-			message: "What is your name?",
+			message: "Enter text you want to encode:",
 		},
 	])
 	.then((answers) => {
